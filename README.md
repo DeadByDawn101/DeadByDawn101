@@ -1,23 +1,31 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0010,30:1a0033,70:4a0080,100:000000&height=280&section=header&text=DeadByDawn101&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🖤%20RavenX%20AI%20|%20Apple%20Silicon%20MLX%20|%20Agentic%20AI%20|%20Crypto%20Infrastructure%20🖤&descAlignY=56&descSize=18&descAlign=50"/>
+<!-- Gothic Old English Title via SVG + capsule-render dark cathedral -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:1a0020,70:2d0040,100:000000&height=300&section=header&text=DeadByDawn101&fontSize=72&fontColor=c084fc&animation=fadeIn&fontAlignY=42&desc=🖤%20RavenX%20AI%20|%20Apple%20Silicon%20|%20Agentic%20AI%20|%20Crypto%20Infrastructure&descAlignY=62&descSize=16&descAlign=50&stroke=9b30ff&strokeWidth=3"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=9B30FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Building+RavenX+AI+Empire;Apple+Silicon+MLX+%2B+Gemma+4;Agentic+AI+%2B+Tool+Calling;Opus+Reasoning+Baked+In;TurboQuant+4.6x+KV+Compression;Gemini+CLI+%2B+OpenHarness+Stack;Meet+Iris+%E2%80%94+the+AI+that+posts;%24STONEFREE+%7C+Jolyne+the+Shiba" alt="Typing SVG"/>
+<!-- Gothic Old English Name via image-charts SVG font -->
+<img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&weight=700&size=15&duration=1&pause=99999&color=c084fc&center=true&vCenter=true&repeat=false&width=500&height=50&lines=⸸+Builder+of+Sovereign+AI+|+RavenX+Empire+⸸" alt="gothic subtitle"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=9B30FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=🖤+Apple+Silicon+MLX+%2B+Gemma+4;🔮+Agentic+AI+%2B+Tool+Calling;⚡+Opus+Reasoning+Baked+In;🕸️+TurboQuant+4.6x+KV+Compression;💀+Gemini+CLI+%2B+OpenHarness+Stack;🌸+Meet+Iris+—+the+AI+that+never+sleeps;🌕+%24STONEFREE+|+Jolyne+the+Shiba+on+Solana" alt="Typing SVG"/>
 
 </div>
 
+<!-- Dark vein divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=DeadByDawn101&color=9b30ff&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/DeadByDawn101?label=FOLLOWERS&style=for-the-badge&color=9b30ff&labelColor=0d0010"/>
-<img src="https://img.shields.io/badge/HuggingFace-deadbydawn101-ff6f00?style=for-the-badge&logo=huggingface"/>
+<img src="https://komarev.com/ghpvc/?username=DeadByDawn101&color=6a0dad&style=for-the-badge&label=SOULS+VISITED"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/DeadByDawn101?label=FOLLOWERS&style=for-the-badge&color=6a0dad&labelColor=0a000f"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🤗_Models-5_Released-c084fc?style=for-the-badge&labelColor=0a000f"/>
 
 </div>
 
@@ -25,130 +33,151 @@
 
 ---
 
-## 🖤 About
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
+## ⸸ &nbsp;Who I Am
 
 ```python
 class DeadByDawn101:
-    def __init__(self):
-        self.name        = "Gabe Garcia"
-        self.location    = "San Jose, CA 🇺🇸"
-        self.company     = "RavenX AI"
-        self.role        = "Builder | Security TPM | AI Infrastructure"
-        self.stack       = [
-            "Apple Silicon MLX",
-            "Gemma 4 — local inference",
-            "TurboQuant KV compression",
-            "Gemini CLI + OpenHarness",
-            "OpenClaw orchestration",
-            "Solana / DeFi automation",
-        ]
-        self.building    = [
-            "Local agentic AI on bare metal",
-            "Tool-calling models that run offline",
-            "Autonomous crypto infrastructure",
-            "IRIS — the AI that runs RavenX socials",
-        ]
-        self.vibe        = "gothic · sovereign · fast"
+    name        = "Gabe Garcia"
+    location    = "San Jose, CA 🌑"
+    empire      = "RavenX AI"
+    role        = "Builder | Security TPM @ Apple | AI Architect"
 
-    def philosophy(self) -> str:
-        return "Build what nobody else is building. Run it locally. Own it."
+    obsessions  = [
+        "Apple Silicon bare-metal inference",
+        "Tool-calling models that run offline",
+        "Autonomous crypto infrastructure",
+        "Gothic aesthetic × bleeding-edge AI",
+    ]
+
+    building    = {
+        "models":   "Gemma 4 MLX — local, fast, sovereign",
+        "tooling":  "TurboQuant · Gemini CLI · OpenHarness",
+        "agent":    "IRIS — AI that posts, never sleeps",
+        "token":    "$STONEFREE | Jolyne the Shiba | Solana",
+    }
+
+    vibe        = "⸸ gothic · sovereign · relentless ⸸"
+
+    philosophy  = (
+        "Build what nobody else is building. "
+        "Run it locally. Own the weights. Own the outcome."
+    )
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🤖 RavenX AI
+## 🖤 &nbsp;RavenX AI — The Empire
 
-> **RavenX AI** is a bare-metal autonomous agent empire — built for extraction, speed, and sovereign AI operations.
-> No clouds required. No API lock-in. Everything runs on Apple Silicon.
+> *Bare-metal autonomous AI. No cloud dependency. No rate limits. Everything sovereign.*
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/><br/>
-<b>Local Models</b><br/>
-<sub>Gemma 4 MLX on M-series<br/>no cloud, no rate limits</sub>
+<td align="center" width="25%" style="background:#0a000f;">
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="55"/>
+<br/><br/>
+<b>🧠 Local Models</b><br/>
+<sub>Gemma 4 MLX · M-series<br/>no cloud · no rate limits<br/>131K context window</sub>
+<br/><br/>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/><br/>
-<b>Agentic Tools</b><br/>
-<sub>Tool calling baked in<br/>OpenHarness + Gemini CLI</sub>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="55"/>
+<br/><br/>
+<b>⚡ Agentic Tools</b><br/>
+<sub>Native tool calling<br/>OpenHarness + Gemini CLI<br/>Hermes terminal agent</sub>
+<br/><br/>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"/><br/>
-<b>Crypto Infra</b><br/>
-<sub>Solana, trading bots<br/>autonomous execution</sub>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="55"/>
+<br/><br/>
+<b>🪙 Crypto Infra</b><br/>
+<sub>Solana · trading bots<br/>autonomous execution<br/>$STONEFREE ecosystem</sub>
+<br/><br/>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"/><br/>
-<b>Speed Edge</b><br/>
-<sub>TurboQuant 4.6x KV<br/>Metal GPU inference</sub>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="55"/>
+<br/><br/>
+<b>🔮 TurboQuant</b><br/>
+<sub>4.6x KV compression<br/>Metal GPU inference<br/>longer ctx · same VRAM</sub>
+<br/><br/>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🌸 Meet Iris — The AI That Posts
+## 🌸 &nbsp;Iris — The AI That Never Sleeps
 
-<img align="left" width="320" src="https://media.giphy.com/media/l4FGw4d101Sa0pGTK/giphy.gif"/>
+<img align="left" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
-**Iris** is RavenX's autonomous AI media agent — she runs the X account, posts market insights, memes, and content 24/7 without human intervention.
+**Iris** is RavenX's autonomous AI media agent.
 
-- 🔮 Powered by local Gemma 4 via Pippin + mlx inference
-- 📡 Connected to live X API for autonomous posting
-- 🧠 Generates human-quality posts — no bot smell
-- 💜 Mascot: **Jolyne the Shiba** — `$STONEFREE`
-- 🎭 Persona: gothic, sharp, Latina-coded, crypto-native
+She runs the X account. She posts market intel, memes, and content **24/7** — zero human intervention.
 
-She doesn't need a human to press send. She just posts.
+- 🔮 Powered by local Gemma 4 via Pippin + MLX
+- 📡 Live X API — posts autonomously, no cron babysitting
+- 🧠 Human-quality output — no bot smell
+- 🐕 Mascot: **Jolyne the Shiba** — `$STONEFREE` on Solana
+- 🖤 Persona: gothic · sharp · Latina-coded · crypto-native
 
-→ [jolynetheshiba.com](https://jolynetheshiba.com) | [@jolyneshibasol](https://x.com/jolyneshibasol) | `$STONEFREE` on Solana
+```python
+while True:
+    insight = iris.scan_market()       # scan CT + Solana
+    post    = iris.generate(insight)   # Gemma 4 E4B local
+    iris.post_to_x(post)               # live, autonomous
+    iris.sleep(random_interval())      # human cadence
+```
+
+→ [jolynetheshiba.com](https://jolynetheshiba.com) &nbsp;|&nbsp; [@jolyneshibasol](https://x.com/jolyneshibasol) &nbsp;|&nbsp; `CA: 3G36hCsP5DgDT2hGxACivRvzWeuX56mU9DrFibbKpump`
 
 <br clear="left"/>
 
 ---
 
-## 🧠 HuggingFace Models
+## 🤗 &nbsp;HuggingFace — MLX Models for Apple Silicon
 
-> All models run on **Apple Silicon (M-series)**. All support **native tool calling**.
+> *All models: native tool calling · Apple Silicon · ollama-ready*
 
-| Model | Size | What it is |
-|---|---|---|
-| 🔥 [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | 10.5 GB | Opus reasoning + Claude Code **baked in**. Tool calling. No adapter needed. |
-| ⚡ [**gemma-4-E4B-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-mlx-4bit) | 4.86 GB | Base Gemma 4 E4B, MLX 4-bit. 1,186+ downloads. |
-| 💀 [**gemma-4-E2B-Heretic-Uncensored-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit) | 3.34 GB | Abliterated — 95% refusal removal. 389+ downloads. |
-| 🌀 [**gemma-4-21b-REAP-Tool-Calling-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-21b-REAP-Tool-Calling-mlx-4bit) | 12 GB | 21B MoE, REAP-pruned, 103 experts, tool calling. |
-| 🔧 [**gemma-4-E4B-opus-reasoning-claude-code-lora**](https://huggingface.co/deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora) | 658 MB | The LoRA adapter — apply to any E4B MLX model. |
+| | Model | Size | Downloads |
+|---|---|---|---|
+| 🔥 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | 10.5 GB | — |
+| ⚡ | [**gemma-4-E4B-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-mlx-4bit) | 4.86 GB | **1,186+** |
+| 💀 | [**gemma-4-E2B-Heretic-Uncensored-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit) | 3.34 GB | **389+** |
+| 🌀 | [**gemma-4-21b-REAP-Tool-Calling-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-21b-REAP-Tool-Calling-mlx-4bit) | 12 GB | — |
+| 🔧 | [**gemma-4-E4B-opus-reasoning-claude-code-lora**](https://huggingface.co/deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora) | 658 MB | — |
 
-**One command to run:**
 ```bash
+# One command — full agentic stack locally on Apple Silicon
 ollama run hf.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit
 ```
 
 ---
 
-## 🚀 Key Projects
+## ⚰️ &nbsp;Key Repos
 
 <div align="center">
 
-[![turboquant-mlx](https://github-readme-stats.vercel.app/api/pin/?username=DeadByDawn101&repo=turboquant-mlx&theme=radical&bg_color=0d0010&border_color=9b30ff&title_color=c084fc&text_color=ffffff)](https://github.com/DeadByDawn101/turboquant-mlx)
-[![gemini-cli](https://github-readme-stats.vercel.app/api/pin/?username=DeadByDawn101&repo=gemini-cli&theme=radical&bg_color=0d0010&border_color=9b30ff&title_color=c084fc&text_color=ffffff)](https://github.com/DeadByDawn101/gemini-cli)
+[![turboquant-mlx](https://github-readme-stats.vercel.app/api/pin/?username=DeadByDawn101&repo=turboquant-mlx&theme=radical&bg_color=0a000f&border_color=6a0dad&title_color=c084fc&text_color=cccccc&icon_color=9b30ff)](https://github.com/DeadByDawn101/turboquant-mlx)&nbsp;
+[![gemini-cli](https://github-readme-stats.vercel.app/api/pin/?username=DeadByDawn101&repo=gemini-cli&theme=radical&bg_color=0a000f&border_color=6a0dad&title_color=c084fc&text_color=cccccc&icon_color=9b30ff)](https://github.com/DeadByDawn101/gemini-cli)
 
-[![mlx-gemma4](https://github-readme-stats.vercel.app/api/pin/?username=DeadByDawn101&repo=mlx-gemma4&theme=radical&bg_color=0d0010&border_color=9b30ff&title_color=c084fc&text_color=ffffff)](https://github.com/DeadByDawn101/mlx-gemma4)
-[![star-platinum-cluster](https://github-readme-stats.vercel.app/api/pin/?username=DeadByDawn101&repo=star-platinum-cluster&theme=radical&bg_color=0d0010&border_color=9b30ff&title_color=c084fc&text_color=ffffff)](https://github.com/DeadByDawn101/star-platinum-cluster)
+[![mlx-gemma4](https://github-readme-stats.vercel.app/api/pin/?username=DeadByDawn101&repo=mlx-gemma4&theme=radical&bg_color=0a000f&border_color=6a0dad&title_color=c084fc&text_color=cccccc&icon_color=9b30ff)](https://github.com/DeadByDawn101/mlx-gemma4)&nbsp;
+[![made-in-heaven](https://github-readme-stats.vercel.app/api/pin/?username=DeadByDawn101&repo=made-in-heaven&theme=radical&bg_color=0a000f&border_color=6a0dad&title_color=c084fc&text_color=cccccc&icon_color=9b30ff)](https://github.com/DeadByDawn101/made-in-heaven)
 
-[![made-in-heaven](https://github-readme-stats.vercel.app/api/pin/?username=DeadByDawn101&repo=made-in-heaven&theme=radical&bg_color=0d0010&border_color=9b30ff&title_color=c084fc&text_color=ffffff)](https://github.com/DeadByDawn101/made-in-heaven)
-[![awesome-hermes-agent](https://github-readme-stats.vercel.app/api/pin/?username=DeadByDawn101&repo=awesome-hermes-agent&theme=radical&bg_color=0d0010&border_color=9b30ff&title_color=c084fc&text_color=ffffff)](https://github.com/DeadByDawn101/awesome-hermes-agent)
+[![awesome-hermes-agent](https://github-readme-stats.vercel.app/api/pin/?username=DeadByDawn101&repo=awesome-hermes-agent&theme=radical&bg_color=0a000f&border_color=6a0dad&title_color=c084fc&text_color=cccccc&icon_color=9b30ff)](https://github.com/DeadByDawn101/awesome-hermes-agent)&nbsp;
+[![star-platinum-cluster](https://github-readme-stats.vercel.app/api/pin/?username=DeadByDawn101&repo=star-platinum-cluster&theme=radical&bg_color=0a000f&border_color=6a0dad&title_color=c084fc&text_color=cccccc&icon_color=9b30ff)](https://github.com/DeadByDawn101/star-platinum-cluster)
 
 </div>
 
 ---
 
-## 🛠️ Stack
+## 🛠️ &nbsp;Stack
 
 <div align="center">
 
@@ -157,20 +186,21 @@ ollama run hf.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 &nbsp;Stats
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=DeadByDawn101&theme=radical&background=0d0010&border=9b30ff&stroke=9b30ff&ring=c084fc&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c084fc&sideLabels=c084fc&dates=888888"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadByDawn101&layout=compact&theme=radical&bg_color=0d0010&border_color=9b30ff&title_color=c084fc&text_color=ffffff&langs_count=8&cache_seconds=86400"/>
+<img height="170" src="https://streak-stats.demolab.com?user=DeadByDawn101&theme=radical&background=0a000f&border=6a0dad&stroke=6a0dad&ring=c084fc&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c084fc&sideLabels=c084fc&dates=888888"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadByDawn101&layout=compact&theme=radical&bg_color=0a000f&border_color=6a0dad&title_color=c084fc&text_color=cccccc&langs_count=8&cache_seconds=86400"/>
 
 </div>
 
@@ -180,12 +210,16 @@ ollama run hf.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-
 
 <div align="center">
 
-**🖤 Building the future of sovereign AI. One model at a time.**
+*⸸ &nbsp; Building sovereign AI. One weight at a time. &nbsp; ⸸*
 
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-deadbydawn101-ff6f00?style=for-the-badge)](https://huggingface.co/deadbydawn101)
-[![X](https://img.shields.io/badge/X-@deadbydawn101-000000?style=for-the-badge&logo=x)](https://x.com/deadbydawn101)
-[![Jolyne](https://img.shields.io/badge/Iris_|_$STONEFREE-Jolyne_the_Shiba-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://jolynetheshiba.com)
+<br/>
+
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-deadbydawn101-c084fc?style=for-the-badge&labelColor=0a000f)](https://huggingface.co/deadbydawn101)
+&nbsp;
+[![X](https://img.shields.io/badge/𝕏-@deadbydawn101-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0a000f)](https://x.com/deadbydawn101)
+&nbsp;
+[![Jolyne](https://img.shields.io/badge/IRIS_|_$STONEFREE-Jolyne_the_Shiba-9945FF?style=for-the-badge&logo=solana&logoColor=white&labelColor=0a000f)](https://jolynetheshiba.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:0d0010&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0020,100:000000&height=120&section=footer"/>
