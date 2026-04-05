@@ -27,7 +27,7 @@
 
 ## 🖤 About
 
-<img align="right" width="380" src="https://media.giphy.com/media/eZGzHkeMPKm0pYHV7d/giphy.gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
 
 ```python
 class DeadByDawn101:
@@ -169,8 +169,8 @@ ollama run hf.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DeadByDawn101&show_icons=true&theme=radical&bg_color=0d0010&border_color=9b30ff&title_color=c084fc&text_color=ffffff&icon_color=9b30ff&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadByDawn101&layout=compact&theme=radical&bg_color=0d0010&border_color=9b30ff&title_color=c084fc&text_color=ffffff&langs_count=8"/>
+<img height="180" src="https://streak-stats.demolab.com?user=DeadByDawn101&theme=radical&background=0d0010&border=9b30ff&stroke=9b30ff&ring=c084fc&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c084fc&sideLabels=c084fc&dates=888888"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadByDawn101&layout=compact&theme=radical&bg_color=0d0010&border_color=9b30ff&title_color=c084fc&text_color=ffffff&langs_count=8&cache_seconds=86400"/>
 
 </div>
 
