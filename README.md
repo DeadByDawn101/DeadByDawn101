@@ -135,6 +135,14 @@ while True:
 | 🌀 | [**gemma-4-21b-REAP-Tool-Calling-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-21b-REAP-Tool-Calling-mlx-4bit) | 12 GB | — |
 | 🔧 | [**gemma-4-E4B-opus-reasoning-claude-code-lora**](https://huggingface.co/deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora) | 658 MB | — |
 
+
+**Live Demos:**
+
+| Space | |
+|---|---|
+| 🔥 [Agentic Tool Calling Demo](https://huggingface.co/spaces/deadbydawn101/gemma4-agentic-tool-calling-demo) | Live agentic loop, tool calling, `<think>` reasoning |
+| 🐳 [OpenClaw Sandbox Demo](https://huggingface.co/spaces/deadbydawn101/openclaw-agent-sandbox-demo) | OpenClaw + Docker + sandbox runtime |
+
 ```bash
 ollama run hf.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit
 ```
