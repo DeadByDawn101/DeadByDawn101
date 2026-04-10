@@ -17,7 +17,8 @@ total_likes = sum((m.get("likes") or 0) for m in models)
 
 def badge(label, message, color="c084fc", label_color="0a000f"):
     from urllib.parse import quote
-    return f"https://img.shields.io/badge/{quote(label)}-{quote(str(message))}-{color}?style=for-the-badge&labelColor={label_color}"
+    safe_message = str(message).replace('-', '--').replace('_', '__')
+    return f"https://img.shields.io/badge/{quote(label)}-{quote(safe_message)}-{color}?style=for-the-badge&labelColor={label_color}"
 
 rows = []
 emoji_cycle = ["🔥", "⚡", "💀", "🌀", "🔧", "🖤"]
@@ -45,13 +46,15 @@ readme = re.sub(
     count=1,
 )
 
+top_model_downloads = f"#{models[0].get('downloads', 0):,}"
+
 stats_block = "\n".join([
     '<!-- HF_STATS:START -->',
     f'<img src="{badge("HF Downloads", f"{total_downloads:,}")}"/>',
     '&nbsp;&nbsp;',
     f'<img src="{badge("HF Likes", f"{total_likes}")}"/>',
     '&nbsp;&nbsp;',
-    f'<img src="{badge("Top Model", models[0]["id"].split("/",1)[1][:32] + ("..." if len(models[0]["id"].split("/",1)[1])>32 else ""), color="6a0dad")}"/>',
+    f'<img src="{badge("Top Model", top_model_downloads, color="6a0dad")}"/>',
     '<!-- HF_STATS:END -->',
 ])
 

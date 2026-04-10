@@ -36,8 +36,18 @@ previous = history[-2] if len(history) > 1 else None
 delta_downloads = current["downloads"] - previous["downloads"] if previous else 0
 delta_likes = current["likes"] - previous["likes"] if previous else 0
 
+milestones = [1, 5, 10, 25, 50, 100, 250, 500, 1000]
+next_milestone = next((m for m in milestones if current["downloads"] < m), None)
+remaining = (next_milestone - current["downloads"]) if next_milestone is not None else 0
+
 snippet = "\n".join([
     "<!-- HF_LORA_TRACKER:START -->",
+    '<img src="https://img.shields.io/badge/LoRA%20Downloads-' + f'{current["downloads"]:,}'.replace(',', '%2C') + '-c084fc?style=for-the-badge&labelColor=0a000f"/>',
+    '&nbsp;&nbsp;',
+    '<img src="https://img.shields.io/badge/LoRA%20Delta-' + (f'{delta_downloads:+}'.replace('+', '%2B')) + '-6a0dad?style=for-the-badge&labelColor=0a000f"/>',
+    '&nbsp;&nbsp;',
+    '<img src="https://img.shields.io/badge/Next%20Milestone-' + (f'{next_milestone} ({remaining} left)' if next_milestone is not None else 'tracking').replace(' ', '%20').replace('(', '%28').replace(')', '%29') + '-111111?style=for-the-badge&labelColor=0a000f"/>',
+    '',
     f"- **Tracked model:** `{MODEL_ID}`",
     f"- **Current downloads:** **{current['downloads']:,}**",
     f"- **Current likes:** **{current['likes']}**",

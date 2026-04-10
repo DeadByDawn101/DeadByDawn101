@@ -27,7 +27,7 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HF%20Likes-14-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Top%20Model-gemma-4-E4B-Agentic-Opus-Reasoni...-6a0dad?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/Top%20Model-%233%2C636-6a0dad?style=for-the-badge&labelColor=0a000f"/>
 <!-- HF_STATS:END -->
 
 </div>
@@ -148,6 +148,12 @@ while True:
 | 🔧 | [**gemma-4-E4B-opus-reasoning-claude-code-lora**](https://huggingface.co/deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora) | — | **0** |
 
 <!-- HF_LORA_TRACKER:START -->
+<img src="https://img.shields.io/badge/LoRA%20Downloads-0-c084fc?style=for-the-badge&labelColor=0a000f"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LoRA%20Delta-%2B0-6a0dad?style=for-the-badge&labelColor=0a000f"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Next%20Milestone-1%20%281%20left%29-111111?style=for-the-badge&labelColor=0a000f"/>
+
 - **Tracked model:** `deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora`
 - **Current downloads:** **0**
 - **Current likes:** **1**
