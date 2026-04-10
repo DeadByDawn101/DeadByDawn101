@@ -147,6 +147,14 @@ while True:
 | 🌀 | [**gemma-4-21b-REAP-Tool-Calling-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-21b-REAP-Tool-Calling-mlx-4bit) | — | **1,096** |
 | 🔧 | [**gemma-4-E4B-opus-reasoning-claude-code-lora**](https://huggingface.co/deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora) | — | **0** |
 
+<!-- HF_LORA_TRACKER:START -->
+- **Tracked model:** `deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora`
+- **Current downloads:** **0**
+- **Current likes:** **1**
+- **Delta since last change:** `+0` downloads, `+0` likes
+- **Last checked:** `2026-04-10T20:05:53.821859+00:00`
+<!-- HF_LORA_TRACKER:END -->
+
 **Live Demos:**
 
 | Space | |
