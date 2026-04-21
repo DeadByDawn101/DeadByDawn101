@@ -25,7 +25,7 @@
 <!-- HF_STATS:START -->
 <img src="https://img.shields.io/badge/HF%20Downloads-24%2C555-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HF%20Likes-34-c084fc?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/HF%20Likes-35-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Top%20Model-%2310%2C624-6a0dad?style=for-the-badge&labelColor=0a000f"/>
 <!-- HF_STATS:END -->
@@ -157,9 +157,9 @@ while True:
 
 - **Tracked model:** `deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora`
 - **Current downloads:** **0**
-- **Current likes:** **1**
-- **Delta since last change:** `+0` downloads, `+0` likes
-- **Last checked:** `2026-04-10T20:05:53.821859+00:00`
+- **Current likes:** **2**
+- **Delta since last change:** `+0` downloads, `+1` likes
+- **Last checked:** `2026-04-21T14:09:19.750203+00:00`
 <!-- HF_LORA_TRACKER:END -->
 
 **Live Demos:**
