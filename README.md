@@ -23,11 +23,11 @@
 <div align="center">
 
 <!-- HF_STATS:START -->
-<img src="https://img.shields.io/badge/HF%20Downloads-22%2C403-c084fc?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/HF%20Downloads-22%2C080-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HF%20Likes-59-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Top%20Model-%238%2C405-6a0dad?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/Top%20Model-%238%2C144-6a0dad?style=for-the-badge&labelColor=0a000f"/>
 <!-- HF_STATS:END -->
 
 </div>
@@ -141,11 +141,11 @@ while True:
 
 | | Model | Size | Downloads |
 |---|---|---|---|
-| 🔥 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | — | **8,405** |
-| ⚡ | [**gemma-4-E2B-Heretic-Uncensored-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit) | — | **7,205** |
-| 💀 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF) | — | **5,373** |
-| 🌀 | [**gemma-4-21b-REAP-Tool-Calling-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-21b-REAP-Tool-Calling-mlx-4bit) | — | **723** |
-| 🔧 | [**gemma-4-E4B-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-mlx-4bit) | — | **697** |
+| 🔥 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | — | **8,144** |
+| ⚡ | [**gemma-4-E2B-Heretic-Uncensored-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit) | — | **7,134** |
+| 💀 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF) | — | **5,404** |
+| 🌀 | [**gemma-4-21b-REAP-Tool-Calling-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-21b-REAP-Tool-Calling-mlx-4bit) | — | **707** |
+| 🔧 | [**gemma-4-E4B-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-mlx-4bit) | — | **691** |
 | 🖤 | [**gemma-4-E4B-opus-reasoning-claude-code-lora**](https://huggingface.co/deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora) | — | **0** |
 
 <!-- HF_LORA_TRACKER:START -->
