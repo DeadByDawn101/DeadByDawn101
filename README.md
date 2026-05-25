@@ -25,7 +25,7 @@
 <!-- HF_STATS:START -->
 <img src="https://img.shields.io/badge/HF%20Downloads-21%2C250-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HF%20Likes-65-c084fc?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/HF%20Likes-66-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Top%20Model-%237%2C401-6a0dad?style=for-the-badge&labelColor=0a000f"/>
 <!-- HF_STATS:END -->
