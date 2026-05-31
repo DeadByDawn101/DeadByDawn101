@@ -23,11 +23,11 @@
 <div align="center">
 
 <!-- HF_STATS:START -->
-<img src="https://img.shields.io/badge/HF%20Downloads-21%2C226-c084fc?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/HF%20Downloads-21%2C615-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HF%20Likes-69-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Top%20Model-%236%2C790-6a0dad?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/Top%20Model-%236%2C671-6a0dad?style=for-the-badge&labelColor=0a000f"/>
 <!-- HF_STATS:END -->
 
 </div>
@@ -141,16 +141,16 @@ while True:
 
 | | Model | Size | Downloads |
 |---|---|---|---|
-| 🔥 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | — | **6,790** |
-| ⚡ | [**gemma-4-E2B-Heretic-Uncensored-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit) | — | **6,653** |
-| 💀 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF) | — | **6,289** |
-| 🌀 | [**gemma-4-E4B-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-mlx-4bit) | — | **528** |
-| 🔧 | [**gemma-4-21b-REAP-Tool-Calling-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-21b-REAP-Tool-Calling-mlx-4bit) | — | **519** |
-| 🖤 | [**RavenX-Sec-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-GGUF) | — | **339** |
-| 🔥 | [**RavenX-Sec-8B-Security-RATH-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-Security-RATH-128k-mlx-4bit) | — | **108** |
-| ⚡ | [**gemma-4-E4B-opus-reasoning-claude-code-lora**](https://huggingface.co/deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora) | — | **0** |
-| 💀 | [**RavenX-Trade-8B-MAP-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-MAP-128k-mlx-4bit) | — | **0** |
-| 🌀 | [**RavenX-Trade-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-GGUF) | — | **0** |
+| 🔥 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | — | **6,671** |
+| ⚡ | [**gemma-4-E2B-Heretic-Uncensored-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit) | — | **6,576** |
+| 💀 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF) | — | **6,495** |
+| 🌀 | [**gemma-4-E4B-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-mlx-4bit) | — | **523** |
+| 🔧 | [**gemma-4-21b-REAP-Tool-Calling-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-21b-REAP-Tool-Calling-mlx-4bit) | — | **504** |
+| 🖤 | [**RavenX-Sec-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-GGUF) | — | **478** |
+| 🔥 | [**RavenX-Trade-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-GGUF) | — | **150** |
+| ⚡ | [**RavenX-Sec-8B-Security-RATH-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-Security-RATH-128k-mlx-4bit) | — | **113** |
+| 💀 | [**RavenX-Trade-8B-MAP-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-MAP-128k-mlx-4bit) | — | **105** |
+| 🌀 | [**gemma-4-E4B-opus-reasoning-claude-code-lora**](https://huggingface.co/deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora) | — | **0** |
 
 <!-- HF_LORA_TRACKER:START -->
 <img src="https://img.shields.io/badge/LoRA%20Downloads-0-c084fc?style=for-the-badge&labelColor=0a000f"/>
