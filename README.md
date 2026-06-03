@@ -23,11 +23,11 @@
 <div align="center">
 
 <!-- HF_STATS:START -->
-<img src="https://img.shields.io/badge/HF%20Downloads-21%2C962-c084fc?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/HF%20Downloads-21%2C987-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HF%20Likes-73-c084fc?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/HF%20Likes-75-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Top%20Model-%237%2C067-6a0dad?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/Top%20Model-%237%2C255-6a0dad?style=for-the-badge&labelColor=0a000f"/>
 <!-- HF_STATS:END -->
 
 </div>
@@ -141,17 +141,17 @@ while True:
 
 | | Model | Size | Downloads |
 |---|---|---|---|
-| 🔥 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF) | — | **7,067** |
-| ⚡ | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | — | **6,573** |
-| 💀 | [**gemma-4-E2B-Heretic-Uncensored-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit) | — | **6,406** |
-| 🌀 | [**gemma-4-E4B-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-mlx-4bit) | — | **516** |
-| 🔧 | [**RavenX-Sec-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-GGUF) | — | **493** |
-| 🖤 | [**gemma-4-21b-REAP-Tool-Calling-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-21b-REAP-Tool-Calling-mlx-4bit) | — | **468** |
-| 🔥 | [**RavenX-Trade-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-GGUF) | — | **214** |
-| ⚡ | [**RavenX-Sec-8B-Security-RATH-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-Security-RATH-128k-mlx-4bit) | — | **117** |
-| 💀 | [**RavenX-Trade-8B-MAP-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-MAP-128k-mlx-4bit) | — | **108** |
-| 🌀 | [**gemma-4-E4B-opus-reasoning-claude-code-lora**](https://huggingface.co/deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora) | — | **0** |
-| 🔧 | [**RavenX-Sec-35B-Security-RATH-mlx**](https://huggingface.co/deadbydawn101/RavenX-Sec-35B-Security-RATH-mlx) | — | **0** |
+| 🔥 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF) | — | **7,255** |
+| ⚡ | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | — | **6,489** |
+| 💀 | [**gemma-4-E2B-Heretic-Uncensored-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit) | — | **6,288** |
+| 🌀 | [**RavenX-Sec-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-GGUF) | — | **508** |
+| 🔧 | [**gemma-4-E4B-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-mlx-4bit) | — | **503** |
+| 🖤 | [**gemma-4-21b-REAP-Tool-Calling-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-21b-REAP-Tool-Calling-mlx-4bit) | — | **485** |
+| 🔥 | [**RavenX-Trade-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-GGUF) | — | **220** |
+| ⚡ | [**RavenX-Sec-8B-Security-RATH-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-Security-RATH-128k-mlx-4bit) | — | **126** |
+| 💀 | [**RavenX-Trade-8B-MAP-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-MAP-128k-mlx-4bit) | — | **113** |
+| 🌀 | [**RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-mlx**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-mlx) | — | **0** |
+| 🔧 | [**gemma-4-E4B-opus-reasoning-claude-code-lora**](https://huggingface.co/deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora) | — | **0** |
 
 <!-- HF_LORA_TRACKER:START -->
 <img src="https://img.shields.io/badge/LoRA%20Downloads-0-c084fc?style=for-the-badge&labelColor=0a000f"/>
