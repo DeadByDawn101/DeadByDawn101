@@ -23,11 +23,11 @@
 <div align="center">
 
 <!-- HF_STATS:START -->
-<img src="https://img.shields.io/badge/HF%20Downloads-25%2C209-c084fc?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/HF%20Downloads-23%2C620-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HF%20Likes-91-c084fc?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/HF%20Likes-92-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Top%20Model-%237%2C759-6a0dad?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/Top%20Model-%237%2C111-6a0dad?style=for-the-badge&labelColor=0a000f"/>
 <!-- HF_STATS:END -->
 
 </div>
@@ -141,15 +141,15 @@ while True:
 
 | | Model | Size | Downloads |
 |---|---|---|---|
-| 🔥 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF) | — | **7,759** |
-| ⚡ | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | — | **5,947** |
-| 💀 | [**gemma-4-E2B-Heretic-Uncensored-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit) | — | **5,863** |
-| 🌀 | [**RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-mlx**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-mlx) | — | **2,300** |
-| 🔧 | [**RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF) | — | **1,191** |
-| 🖤 | [**RavenX-Sec-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-GGUF) | — | **585** |
-| 🔥 | [**gemma-4-E4B-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-mlx-4bit) | — | **539** |
-| ⚡ | [**gemma-4-21b-REAP-Tool-Calling-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-21b-REAP-Tool-Calling-mlx-4bit) | — | **449** |
-| 💀 | [**RavenX-Trade-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-GGUF) | — | **262** |
+| 🔥 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF) | — | **7,111** |
+| ⚡ | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | — | **5,446** |
+| 💀 | [**gemma-4-E2B-Heretic-Uncensored-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit) | — | **5,320** |
+| 🌀 | [**RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-mlx**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-mlx) | — | **2,408** |
+| 🔧 | [**RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF) | — | **1,299** |
+| 🖤 | [**RavenX-Sec-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-GGUF) | — | **586** |
+| 🔥 | [**gemma-4-E4B-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-mlx-4bit) | — | **494** |
+| ⚡ | [**gemma-4-21b-REAP-Tool-Calling-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-21b-REAP-Tool-Calling-mlx-4bit) | — | **379** |
+| 💀 | [**RavenX-Trade-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-GGUF) | — | **263** |
 | 🌀 | [**RavenX-Sec-8B-Security-RATH-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-Security-RATH-128k-mlx-4bit) | — | **172** |
 | 🔧 | [**RavenX-Trade-8B-MAP-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-MAP-128k-mlx-4bit) | — | **142** |
 | 🖤 | [**gemma-4-E4B-opus-reasoning-claude-code-lora**](https://huggingface.co/deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora) | — | **0** |
