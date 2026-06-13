@@ -16,7 +16,7 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/DeadByDawn101?label=FOLLOWERS&style=for-the-badge&color=6a0dad&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HuggingFace-14%20Models-c084fc?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/HuggingFace-16%20Models-c084fc?style=for-the-badge&labelColor=0a000f"/>
 
 </div>
 
@@ -155,6 +155,8 @@ while True:
 | 🖤 | [**RavenX-Sec-8B-Security-RATH-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-Security-RATH-128k-mlx-4bit) | — | **143** |
 | 🔥 | [**RavenX-Trade-8B-MAP-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-MAP-128k-mlx-4bit) | — | **124** |
 | ⚡ | [**gemma-4-E4B-opus-reasoning-claude-code-lora**](https://huggingface.co/deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora) | — | **0** |
+| 💀 | [**RavenX-CyberAgent-v6.2-Experimental-GGUF**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-v6.2-Experimental-GGUF) | — | **0** |
+| 🌀 | [**RavenX-CyberAgent-v6.2-Experimental-MLX**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-v6.2-Experimental-MLX) | — | **0** |
 
 <!-- HF_LORA_TRACKER:START -->
 <img src="https://img.shields.io/badge/LoRA%20Downloads-0-c084fc?style=for-the-badge&labelColor=0a000f"/>
