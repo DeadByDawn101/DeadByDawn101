@@ -23,11 +23,11 @@
 <div align="center">
 
 <!-- HF_STATS:START -->
-<img src="https://img.shields.io/badge/HF%20Downloads-137%2C009-c084fc?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/HF%20Downloads-145%2C457-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HF%20Likes-306-c084fc?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/HF%20Likes-308-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Top%20Model-%2377%2C457-6a0dad?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/Top%20Model-%2387%2C200-6a0dad?style=for-the-badge&labelColor=0a000f"/>
 <!-- HF_STATS:END -->
 
 </div>
@@ -141,27 +141,27 @@ while True:
 
 | | Model | Size | Downloads |
 |---|---|---|---|
-| 🔥 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | — | **77,457** |
-| ⚡ | [**RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF) | — | **21,038** |
-| 💀 | [**RavenX-OpenFable-Coderagent-gemma-4-12B-coder-fable5-composer-Soulinfused-Remastered-GGUF**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Coderagent-gemma-4-12B-coder-fable5-composer-Soulinfused-Remastered-GGUF) | — | **9,777** |
-| 🌀 | [**RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP) | — | **6,423** |
-| 🔧 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF) | — | **4,670** |
-| 🖤 | [**RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-mlx**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-mlx) | — | **4,018** |
-| 🔥 | [**gemma-4-E2B-Heretic-Uncensored-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit) | — | **3,798** |
-| ⚡ | [**ravenx-Gemma4-12B-MTP-OBLITERATED-OpenMAI-OpenMythos-deep-reasoning-GGUF**](https://huggingface.co/deadbydawn101/ravenx-Gemma4-12B-MTP-OBLITERATED-OpenMAI-OpenMythos-deep-reasoning-GGUF) | — | **3,083** |
-| 💀 | [**ravenx-Gemma4-12B-MTP-OBLITERATED-OpenMAI-OpenMythos-deep-reasoning-mlx**](https://huggingface.co/deadbydawn101/ravenx-Gemma4-12B-MTP-OBLITERATED-OpenMAI-OpenMythos-deep-reasoning-mlx) | — | **1,990** |
-| 🌀 | [**RavenX-CyberAgent-v6.2-Experimental-GGUF**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-v6.2-Experimental-GGUF) | — | **1,161** |
-| 🔧 | [**RavenX-OpenFable-Coder-Gemma-4-12B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Coder-Gemma-4-12B-GGUF) | — | **1,089** |
-| 🖤 | [**RavenX-Sec-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-GGUF) | — | **695** |
-| 🔥 | [**RavenX-Trade-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-GGUF) | — | **367** |
-| ⚡ | [**gemma-4-21b-REAP-Tool-Calling-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-21b-REAP-Tool-Calling-mlx-4bit) | — | **324** |
-| 💀 | [**gemma-4-E4B-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-mlx-4bit) | — | **278** |
-| 🌀 | [**RavenX-Sec-8B-Security-RATH-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-Security-RATH-128k-mlx-4bit) | — | **233** |
-| 🔧 | [**RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP-mlx**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP-mlx) | — | **225** |
+| 🔥 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | — | **87,200** |
+| ⚡ | [**RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF) | — | **20,540** |
+| 💀 | [**RavenX-OpenFable-Coderagent-gemma-4-12B-coder-fable5-composer-Soulinfused-Remastered-GGUF**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Coderagent-gemma-4-12B-coder-fable5-composer-Soulinfused-Remastered-GGUF) | — | **9,809** |
+| 🌀 | [**RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP) | — | **6,395** |
+| 🔧 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF) | — | **4,500** |
+| 🖤 | [**RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-mlx**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-mlx) | — | **4,059** |
+| 🔥 | [**gemma-4-E2B-Heretic-Uncensored-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit) | — | **3,764** |
+| ⚡ | [**ravenx-Gemma4-12B-MTP-OBLITERATED-OpenMAI-OpenMythos-deep-reasoning-GGUF**](https://huggingface.co/deadbydawn101/ravenx-Gemma4-12B-MTP-OBLITERATED-OpenMAI-OpenMythos-deep-reasoning-GGUF) | — | **2,580** |
+| 💀 | [**ravenx-Gemma4-12B-MTP-OBLITERATED-OpenMAI-OpenMythos-deep-reasoning-mlx**](https://huggingface.co/deadbydawn101/ravenx-Gemma4-12B-MTP-OBLITERATED-OpenMAI-OpenMythos-deep-reasoning-mlx) | — | **1,899** |
+| 🌀 | [**RavenX-CyberAgent-v6.2-Experimental-GGUF**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-v6.2-Experimental-GGUF) | — | **1,164** |
+| 🔧 | [**RavenX-OpenFable-Coder-Gemma-4-12B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Coder-Gemma-4-12B-GGUF) | — | **999** |
+| 🖤 | [**RavenX-Sec-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-GGUF) | — | **754** |
+| 🔥 | [**RavenX-Trade-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-GGUF) | — | **356** |
+| ⚡ | [**gemma-4-21b-REAP-Tool-Calling-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-21b-REAP-Tool-Calling-mlx-4bit) | — | **333** |
+| 💀 | [**gemma-4-E4B-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-mlx-4bit) | — | **287** |
+| 🌀 | [**RavenX-Sec-8B-Security-RATH-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-Security-RATH-128k-mlx-4bit) | — | **230** |
+| 🔧 | [**RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP-mlx**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP-mlx) | — | **216** |
 | 🖤 | [**RavenX-Trade-8B-MAP-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-MAP-128k-mlx-4bit) | — | **166** |
-| 🔥 | [**RavenX-OpenFable-Coderagent-gemma-4-12B-coder-fable5-composer-Soulinfused-Remastered-mlx**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Coderagent-gemma-4-12B-coder-fable5-composer-Soulinfused-Remastered-mlx) | — | **131** |
+| 🔥 | [**RavenX-OpenFable-Coderagent-gemma-4-12B-coder-fable5-composer-Soulinfused-Remastered-mlx**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Coderagent-gemma-4-12B-coder-fable5-composer-Soulinfused-Remastered-mlx) | — | **134** |
 | ⚡ | [**RavenX-CyberAgent-v6.2-Experimental-MLX**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-v6.2-Experimental-MLX) | — | **46** |
-| 💀 | [**RavenX-OpenFable-Coder-Gemma-4-12B-mlx**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Coder-Gemma-4-12B-mlx) | — | **40** |
+| 💀 | [**RavenX-OpenFable-Coder-Gemma-4-12B-mlx**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Coder-Gemma-4-12B-mlx) | — | **26** |
 | 🌀 | [**gemma-4-E4B-opus-reasoning-claude-code-lora**](https://huggingface.co/deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora) | — | **0** |
 
 <!-- HF_LORA_TRACKER:START -->
