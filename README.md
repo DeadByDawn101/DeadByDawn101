@@ -195,8 +195,8 @@ class DeadByDawn101:
 </td>
 <td width="50%" align="center">
 
-**[omlx](https://github.com/DeadByDawn101/omlx)**<br/>
-<sub>Fork of oMLX — one-click MLX model distribution.<br/>Menu bar app · investor demos · ESI integration<br/>Distributed inference via JACCL RDMA</sub>
+**[OpenMAI](https://github.com/DeadByDawn101/OpenMAI)**<br/>
+<sub>Hill-climbing optimization for MLX (Microsoft research port).<br/>Iterative self-improvement · beats single-pass training<br/>Used in every RavenX model · criminally underused by community</sub>
 
 </td>
 </tr>
