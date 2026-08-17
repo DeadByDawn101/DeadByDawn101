@@ -33,7 +33,7 @@ class DeadByDawn101:
     name        = "Gabriel Garcia"
     location    = "San Jose, CA"
     company     = "RavenX AI Labs LLC (Founded June 2026)"
-    background  = "Security TPM @ Apple (8+ years) → AI Founder"
+    background  = "Security TPM (8+ years) → AI Founder & Sole Inventor"
 
     patents     = {
         "#64/087,357": "Soul Infusion — identity in weights",
