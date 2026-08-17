@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:1a0020,70:2d0040,100:000000&height=300&section=header&text=DeadByDawn101&fontSize=72&fontColor=c084fc&animation=fadeIn&fontAlignY=42&desc=RavenX%20AI%20%7C%20Apple%20Silicon%20MLX%20%7C%20Agentic%20AI%20%7C%20Crypto%20Infrastructure&descAlignY=62&descSize=16&descAlign=50&stroke=9b30ff&strokeWidth=3"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:1a0020,70:2d0040,100:000000&height=300&section=header&text=DeadByDawn101&fontSize=72&fontColor=c084fc&animation=fadeIn&fontAlignY=42&desc=RavenX%20AI%20Labs%20LLC%20%7C%204%20Patents%20%7C%2072%20Claims%20%7C%20Sovereign%20AI&descAlignY=62&descSize=16&descAlign=50&stroke=9b30ff&strokeWidth=3"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&weight=700&size=15&duration=1&pause=99999&color=c084fc&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%E2%B8%B8+Builder+of+Sovereign+AI+%7C+RavenX+Empire+%E2%B8%B8"/>
+<img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&weight=700&size=15&duration=1&pause=99999&color=c084fc&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%E2%B8%B8+Founder+%7C+RavenX+AI+Labs+LLC+%7C+San+Jose%2C+CA+%E2%B8%B8"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=9B30FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Apple+Silicon+MLX+%2B+Gemma+4;Agentic+AI+%2B+Native+Tool+Calling;Opus+Reasoning+Baked+In;TurboQuant+4.6x+KV+Compression;Gemini+CLI+%2B+OpenHarness+Stack;Meet+Iris+the+AI+that+never+sleeps;STONEFREE+%7C+Jolyne+the+Shiba+on+Solana"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=9B30FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=4+Patents+%7C+72+Claims+%7C+5-Layer+Sovereign+AI;IQ+Injection+%7C+8+Frontier+Models+%7C+1.16M+Examples;Encrypted+Speculative+Injection+%7C+Training+Impossibility;Apple+Silicon+MLX+%2B+JACCL+RDMA+%2B+TB5;The+model+that+cannot+be+stolen;Walls+break.+Math+doesn%27t."/>
 
 </div>
 
@@ -16,19 +16,9 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/DeadByDawn101?label=FOLLOWERS&style=for-the-badge&color=6a0dad&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HuggingFace-28%20Models-c084fc?style=for-the-badge&labelColor=0a000f"/>
-
-</div>
-
-<div align="center">
-
-<!-- HF_STATS:START -->
-<img src="https://img.shields.io/badge/HF%20Downloads-104%2C635-c084fc?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/HuggingFace-28%2B%20Models-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HF%20Likes-360-c084fc?style=for-the-badge&labelColor=0a000f"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Top%20Model-%2364%2C616-6a0dad?style=for-the-badge&labelColor=0a000f"/>
-<!-- HF_STATS:END -->
+<img src="https://img.shields.io/badge/Patents-4%20Filed-ff0000?style=for-the-badge&labelColor=0a000f"/>
 
 </div>
 
@@ -40,33 +30,59 @@
 
 ```python
 class DeadByDawn101:
-    name        = "Gabe Garcia"
+    name        = "Gabriel Garcia"
     location    = "San Jose, CA"
-    empire      = "RavenX AI"
-    role        = "Builder | Security TPM @ Apple | AI Architect"
+    company     = "RavenX AI Labs LLC (Founded June 2026)"
+    background  = "Security TPM @ Apple (8+ years) → AI Founder"
 
-    obsessions  = [
-        "Apple Silicon bare-metal inference",
-        "Tool-calling models that run offline",
-        "Autonomous crypto infrastructure",
-        "Gothic aesthetic x bleeding-edge AI",
+    patents     = {
+        "#64/087,357": "Soul Infusion — identity in weights",
+        "#64/104,760": "Sovereignty Chain — cryptographic ownership",
+        "#64/134,680": "Encrypted Private AI — HE on consumer HW",
+        "#64/135,161": "ESI — drafter as key + training impossibility",
+    }  # 72 claims. 5 layers. All math. None breakable.
+
+    inventions  = [
+        "IQ Injection — 1.16M examples from 8 frontier labs",
+        "ESI — speculative decoding as cryptographic authentication",
+        "Training Impossibility — loss → 10²¹ without the key",
+        "Reverse ESI — activation enhancement without weight mod",
+        "MTP + FHE — 5.7x encrypted inference speedup",
+        "MTP Detection Scanner — finds stripped MTP weights",
     ]
 
-    building    = {
-        "models":   "Gemma 4 MLX — local, fast, sovereign",
-        "tooling":  "TurboQuant · Gemini CLI · OpenHarness",
-        "agent":    "IRIS — AI that posts, never sleeps",
-        "token":    "$STONEFREE | Jolyne the Shiba | Solana",
-    }
+    certifications = [
+        "Google AI Professional Certificate",
+        "Google Generative AI Leader Specialization",
+        "Google AI Specialization",
+        "CompTIA Security+",
+        "ITIL v3 Foundation",
+    ]
 
-    philosophy  = "Build what nobody is building. Run it locally. Own the weights."
+    philosophy  = "Build what nobody is building. Own the math. Ship in pairs."
 ```
 
 ---
 
-## 🖤 &nbsp;RavenX AI — The Empire
+## 🏆 &nbsp;Patent Portfolio — 5-Layer Sovereign AI Stack
 
-> *Bare-metal autonomous AI. No cloud dependency. No rate limits. Everything sovereign.*
+> *Every company identified the problem. We solved it.*
+
+| Layer | Patent | What It Does |
+|-------|--------|-------------|
+| 1 | **Soul Infusion** #64/087,357 | Identity persists through training — the model knows who it is |
+| 2 | **Sovereignty Chain** #64/104,760 | Cryptographic ownership proof — the model proves who made it |
+| 3 | **Encrypted Private AI** #64/134,680 | Homomorphic encryption on consumer HW — the model cannot be read |
+| 4 | **ESI** #64/135,161 | Drafter as cryptographic key — the model cannot be accelerated without auth |
+| 5 | **Training Impossibility** #64/135,161 | Loss diverges to 10²¹ — the key cannot be replicated |
+
+**4 patents. 72 claims. Filed in 68 days from LLC formation. Zero prior art matches.**
+
+---
+
+## 🖤 &nbsp;RavenX AI Labs LLC
+
+> *Bare-metal sovereign AI. No cloud dependency. No rate limits. Everything local.*
 
 <table align="center" width="100%">
 <tr>
@@ -74,32 +90,32 @@ class DeadByDawn101:
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="55"/>
 <br/><br/>
-<b>Local Models</b><br/>
-<sub>Gemma 4 MLX · M-series<br/>no cloud · no rate limits<br/>131K context window</sub>
+<b>IQ Injection</b><br/>
+<sub>1.16M examples · 8 frontier labs<br/>Model thinks before answering<br/>93% benchmark · 27B on laptop</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="55"/>
 <br/><br/>
-<b>Agentic Tools</b><br/>
-<sub>Native tool calling<br/>OpenHarness + Gemini CLI<br/>Hermes terminal agent</sub>
+<b>Encrypted AI</b><br/>
+<sub>FHE on Apple Silicon<br/>0.0001% error · 10.6ms<br/>Post-quantum CKKS/BFV</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="55"/>
 <br/><br/>
-<b>Crypto Infra</b><br/>
-<sub>Solana · trading bots<br/>autonomous execution<br/>$STONEFREE ecosystem</sub>
+<b>ESI + MTP</b><br/>
+<sub>70.7M drafter as crypto key<br/>5.7x encrypted speedup<br/>Training impossibility (10²¹)</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="55"/>
 <br/><br/>
-<b>TurboQuant</b><br/>
-<sub>4.6x KV compression<br/>Metal GPU inference<br/>longer ctx · same VRAM</sub>
+<b>Star Platinum</b><br/>
+<sub>Multi-Mac AI cluster<br/>JACCL RDMA over TB5<br/>256GB unified · 3.5 GB/s</sub>
 <br/><br/>
 </td>
 </tr>
@@ -107,93 +123,21 @@ class DeadByDawn101:
 
 ---
 
-## 🌸 &nbsp;Iris — The AI That Never Sleeps
+## 🤗 &nbsp;Featured Models
 
-<img align="left" width="280" src="https://raw.githubusercontent.com/DeadByDawn101/DeadByDawn101/main/iris-banner.gif"/>
+> *All models ship in MLX + GGUF pairs. Always.*
 
-**Iris** is RavenX's autonomous AI media agent.
-
-She runs the X account. Posts market intel, memes, and content **24/7** — zero human intervention.
-
-- Powered by local Gemma 4 via Pippin + MLX
-- Live X API — posts autonomously, no babysitting
-- Human-quality output — no bot smell
-- Mascot: **Jolyne the Shiba** — `$STONEFREE` on Solana
-- Persona: gothic · sharp · Latina-coded · crypto-native
-
-```python
-while True:
-    insight = iris.scan_market()       # scan CT + Solana
-    post    = iris.generate(insight)   # Gemma 4 E4B local
-    iris.post_to_x(post)               # live, autonomous
-    iris.sleep(random_interval())      # human cadence
-```
-
-→ [jolynetheshiba.com](https://jolynetheshiba.com) &nbsp;|&nbsp; [@jolyneshibasol](https://x.com/jolyneshibasol)
-
-<br clear="left"/>
-
----
-
-## 🤗 &nbsp;HuggingFace — MLX Models
-
-> *All models: native tool calling · Apple Silicon · Ollama-ready*
-
-| | Model | Size | Downloads |
+| | Model | Type | Highlights |
 |---|---|---|---|
-| 🔥 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | — | **64,616** |
-| ⚡ | [**RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF) | — | **17,490** |
-| 💀 | [**RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-mlx**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-mlx) | — | **3,498** |
-| 🌀 | [**gemma-4-E4B-Agentic-Sol-Fable-Reasoning-GeminiCLI-GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Sol-Fable-Reasoning-GeminiCLI-GGUF) | — | **3,468** |
-| 🔧 | [**gemma-4-E2B-Heretic-Uncensored-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit) | — | **3,354** |
-| 🖤 | [**gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF) | — | **3,188** |
-| 🔥 | [**RavenX-OpenFable-Coderagent-gemma-4-12B-coder-fable5-composer-Soulinfused-Remastered-GGUF**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Coderagent-gemma-4-12B-coder-fable5-composer-Soulinfused-Remastered-GGUF) | — | **1,550** |
-| ⚡ | [**RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP) | — | **1,313** |
-| 💀 | [**gemma-4-E4B-Agentic-Sol-Fable-Reasoning-GeminiCLI-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Sol-Fable-Reasoning-GeminiCLI-mlx-4bit) | — | **1,254** |
-| 🌀 | [**RavenX-CyberAgent-v6.2-Experimental-GGUF**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-v6.2-Experimental-GGUF) | — | **1,201** |
-| 🔧 | [**ravenx-Gemma4-12B-MTP-OBLITERATED-OpenMAI-OpenMythos-deep-reasoning-mlx**](https://huggingface.co/deadbydawn101/ravenx-Gemma4-12B-MTP-OBLITERATED-OpenMAI-OpenMythos-deep-reasoning-mlx) | — | **845** |
-| 🖤 | [**RavenX-Sec-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-GGUF) | — | **488** |
-| 🔥 | [**RavenX-Trade-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-GGUF) | — | **405** |
-| ⚡ | [**ravenx-Gemma4-12B-MTP-OBLITERATED-OpenMAI-OpenMythos-deep-reasoning-GGUF**](https://huggingface.co/deadbydawn101/ravenx-Gemma4-12B-MTP-OBLITERATED-OpenMAI-OpenMythos-deep-reasoning-GGUF) | — | **328** |
-| 💀 | [**RavenX-OpenFable-Coder-Gemma-4-12B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Coder-Gemma-4-12B-GGUF) | — | **320** |
-| 🌀 | [**RavenX-Trade-8B-MAP-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Trade-8B-MAP-128k-mlx-4bit) | — | **228** |
-| 🔧 | [**gemma-4-E4B-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-E4B-mlx-4bit) | — | **220** |
-| 🖤 | [**RavenX-Conjecture-Qwen3-8B-GGUF**](https://huggingface.co/deadbydawn101/RavenX-Conjecture-Qwen3-8B-GGUF) | — | **215** |
-| 🔥 | [**gemma-4-21b-REAP-Tool-Calling-mlx-4bit**](https://huggingface.co/deadbydawn101/gemma-4-21b-REAP-Tool-Calling-mlx-4bit) | — | **207** |
-| ⚡ | [**RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP-mlx**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP-mlx) | — | **196** |
-| 💀 | [**RavenX-Conjecture-Qwen3-8B-MLX**](https://huggingface.co/deadbydawn101/RavenX-Conjecture-Qwen3-8B-MLX) | — | **113** |
-| 🌀 | [**RavenX-Sec-8B-Security-RATH-128k-mlx-4bit**](https://huggingface.co/deadbydawn101/RavenX-Sec-8B-Security-RATH-128k-mlx-4bit) | — | **88** |
-| 🔧 | [**RavenX-CyberAgent-v6.2-Experimental-MLX**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-v6.2-Experimental-MLX) | — | **30** |
-| 🖤 | [**RavenX-OpenFable-Coderagent-gemma-4-12B-coder-fable5-composer-Soulinfused-Remastered-mlx**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Coderagent-gemma-4-12B-coder-fable5-composer-Soulinfused-Remastered-mlx) | — | **11** |
-| 🔥 | [**RavenX-OpenFable-Coder-Gemma-4-12B-mlx**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Coder-Gemma-4-12B-mlx) | — | **9** |
-| ⚡ | [**gemma-4-E4B-opus-reasoning-claude-code-lora**](https://huggingface.co/deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora) | — | **0** |
-| 💀 | [**gemma-4-E4B-v2-Sol-FABLE5-lora**](https://huggingface.co/deadbydawn101/gemma-4-E4B-v2-Sol-FABLE5-lora) | — | **0** |
-| 🌀 | [**RavenX-IQ-Injection-Training-data**](https://huggingface.co/deadbydawn101/RavenX-IQ-Injection-Training-data) | — | **0** |
+| 🏆 | [**Unified Frontier Model — Qwen 3.8-27B IQ-Injected MLX**](https://huggingface.co/deadbydawn101/RavenXAILabsLLC-Qwen3.8-27B-Abliterated-Unified-Frontier-Model-IQ-Injected-MLX-MTP) | MLX | 8 frontier labs · 1.16M examples · 93% benchmark · ESI drafter bundled |
+| 🏆 | [**Unified Frontier Model — Qwen 3.8-27B IQ-Injected GGUF**](https://huggingface.co/deadbydawn101/RavenXAILabsLLC-Qwen3.8-27B-Abliterated-Unified-Frontier-Model-IQ-Injected-GGUF) | GGUF | Q4_K_M · Ollama/LM Studio/llama.cpp ready |
+| 💰 | [**MasterTrading Engine 27B — MLX**](https://huggingface.co/deadbydawn101/RavenX-MasterTrading-Engine-Qwen3.6-27B-Fable-Fusion-711-NEO-MAX-MTP-MLX) | MLX | 10/10 benchmark · Real trades · Polymarket · Options · DeFi |
+| 💰 | [**MasterTrading Engine 27B — GGUF**](https://huggingface.co/deadbydawn101/RavenX-MasterTrading-Engine-Qwen3.6-27B-Fable-Fusion-711-NEO-MAX-MTP-GGUF) | GGUF | Q4_K_M + IQ4_XS · Fits 16GB MacBook Air |
+| 🔒 | [**CyberAgent — 35B Pentester**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF) | GGUF | 17K+ downloads · RATH protocol · CVE analysis |
+| ⚡ | [**OpenFable-Qwopus-Coder-Holo3 35B**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP) | GGUF | Soul Infusion · Identity in weights · Agentic coding |
+| 🔥 | [**Gemma 4 E4B Agentic**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | MLX | 64K+ downloads · Tool calling · Opus reasoning |
 
-<!-- HF_LORA_TRACKER:START -->
-<img src="https://img.shields.io/badge/LoRA%20Downloads-0-c084fc?style=for-the-badge&labelColor=0a000f"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LoRA%20Delta-%2B0-6a0dad?style=for-the-badge&labelColor=0a000f"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Next%20Milestone-1%20%281%20left%29-111111?style=for-the-badge&labelColor=0a000f"/>
-
-- **Tracked model:** `deadbydawn101/gemma-4-E4B-opus-reasoning-claude-code-lora`
-- **Current downloads:** **0**
-- **Current likes:** **7**
-- **Delta since last change:** `+0` downloads, `+1` likes
-- **Last checked:** `2026-07-11T03:43:05.351946+00:00`
-<!-- HF_LORA_TRACKER:END -->
-
-**Live Demos:**
-
-| Space | |
-|---|---|
-| 🔥 [Agentic Tool Calling Demo](https://huggingface.co/spaces/deadbydawn101/gemma4-agentic-tool-calling-demo) | Live agentic loop, tool calling, `<think>` reasoning |
-| 🐳 [OpenClaw Sandbox Demo](https://huggingface.co/spaces/deadbydawn101/openclaw-agent-sandbox-demo) | OpenClaw + Docker + sandbox runtime |
-
-```bash
-ollama run hf.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit
-```
+**28+ models · 100K+ total downloads · Ships in MLX + GGUF pairs**
 
 ---
 
@@ -203,42 +147,42 @@ ollama run hf.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-
 <tr>
 <td width="50%" align="center">
 
-**[turboquant-mlx](https://github.com/DeadByDawn101/turboquant-mlx)**<br/>
-<sub>First MLX implementation of TurboQuant KV cache compression.<br/>4.6x compression · near-zero accuracy loss · Apple Silicon</sub>
+**[ravenx-wiki](https://github.com/DeadByDawn101/ravenx-wiki)**<br/>
+<sub>Session state, KANBAN, patent docs, project plans.<br/>The brain of RavenX AI Labs.</sub>
 
 </td>
 <td width="50%" align="center">
 
-**[gemini-cli](https://github.com/DeadByDawn101/gemini-cli)**<br/>
-<sub>RavenX fork of Gemini CLI — coding agent + tool orchestration.<br/>MCP compatible · 1M context · free tier</sub>
+**[sovereign-ai-demo](https://github.com/DeadByDawn101/sovereign-ai-demo)**<br/>
+<sub>Encrypted AI inference proof code.<br/>BFV/CKKS on Apple Silicon · 55 verifications</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-**[mlx-gemma4](https://github.com/DeadByDawn101/mlx-gemma4)**<br/>
-<sub>First MLX implementation of Google Gemma 4.<br/>Multimodal · tool calling · Apple Silicon</sub>
+**[ravenx-mtp-drafter](https://github.com/DeadByDawn101/ravenx-mtp-drafter)**<br/>
+<sub>ESI drafter architecture · 70.7M params.<br/>Training impossibility proof · MTP detection</sub>
 
 </td>
 <td width="50%" align="center">
 
-**[made-in-heaven](https://github.com/DeadByDawn101/made-in-heaven)**<br/>
-<sub>Autonomous web agent via Chrome DevTools MCP.<br/>Full browser control · 35 tools · agentic loop</sub>
+**[omlx](https://github.com/DeadByDawn101/omlx)**<br/>
+<sub>Fork of oMLX — one-click MLX model distribution.<br/>Menu bar app · investor demos · ESI integration</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-
-**[awesome-hermes-agent](https://github.com/DeadByDawn101/awesome-hermes-agent)**<br/>
-<sub>Curated list of Hermes agent skills, tools, integrations.<br/>Terminal-native · coding agent · OpenHarness</sub>
-
-</td>
 <td width="50%" align="center">
 
 **[star-platinum-cluster](https://github.com/DeadByDawn101/star-platinum-cluster)**<br/>
-<sub>Multi-node Apple Silicon AI cluster.<br/>Distributed inference · RDMA · auto-routing</sub>
+<sub>Multi-Mac AI cluster · JACCL RDMA over TB5.<br/>256GB unified · 3.5 GB/s kernel bypass</sub>
+
+</td>
+<td width="50%" align="center">
+
+**[ravenx-benchmark](https://github.com/DeadByDawn101/ravenx-benchmark)**<br/>
+<sub>18-test benchmark suite · 6 categories.<br/>MLX runner · Gemini judge · 93% score</sub>
 
 </td>
 </tr>
@@ -252,11 +196,10 @@ ollama run hf.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MLX](https://img.shields.io/badge/MLX-Apple%20Silicon-black?style=for-the-badge&logo=apple&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CKKS](https://img.shields.io/badge/CKKS-Post%20Quantum-red?style=for-the-badge&labelColor=0a000f)
+![JACCL](https://img.shields.io/badge/JACCL-RDMA-blue?style=for-the-badge&labelColor=0a000f)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
@@ -279,15 +222,19 @@ ollama run hf.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-
 
 <div align="center">
 
-*⸸ &nbsp; Building sovereign AI. One weight at a time. &nbsp; ⸸*
+*⸸ &nbsp; 4 patents. 72 claims. 28+ models. 100K+ downloads. 68 days. $0 raised. &nbsp; ⸸*
+
+*"Walls break. Math doesn't."*
 
 <br/>
 
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-deadbydawn101-c084fc?style=for-the-badge&labelColor=0a000f)](https://huggingface.co/deadbydawn101)
 &nbsp;
-[![X](https://img.shields.io/badge/X-deadbydawn101-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0a000f)](https://x.com/deadbydawn101)
+[![X](https://img.shields.io/badge/X-RavenXllm-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0a000f)](https://x.com/RavenXllm)
 &nbsp;
 [![Jolyne](https://img.shields.io/badge/IRIS_STONEFREE-Jolyne_the_Shiba-9945FF?style=for-the-badge&logo=solana&logoColor=white&labelColor=0a000f)](https://jolynetheshiba.com)
+
+**RavenX AI Labs LLC — San Jose, California — Since June 2026**
 
 </div>
 
