@@ -16,7 +16,7 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/DeadByDawn101?label=FOLLOWERS&style=for-the-badge&color=6a0dad&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HuggingFace-30%2B%20Models-c084fc?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/HuggingFace-30%20Models-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Patents-4%20Filed-ff0000?style=for-the-badge&labelColor=0a000f"/>
 
