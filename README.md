@@ -16,9 +16,21 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/DeadByDawn101?label=FOLLOWERS&style=for-the-badge&color=6a0dad&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HuggingFace-28%2B%20Models-c084fc?style=for-the-badge&labelColor=0a000f"/>
+<img src="https://img.shields.io/badge/HuggingFace-30%2B%20Models-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Patents-4%20Filed-ff0000?style=for-the-badge&labelColor=0a000f"/>
+
+</div>
+
+<div align="center">
+
+<!-- HF_STATS:START -->
+<img src="https://img.shields.io/badge/HF%20Downloads-104%2C635-c084fc?style=for-the-badge&labelColor=0a000f"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HF%20Likes-360-c084fc?style=for-the-badge&labelColor=0a000f"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Top%20Model-%2364%2C616-6a0dad?style=for-the-badge&labelColor=0a000f"/>
+<!-- HF_STATS:END -->
 
 </div>
 
@@ -141,52 +153,62 @@ class DeadByDawn101:
 
 ---
 
-## ⚰️ &nbsp;Key Repos
+## ⚰️ &nbsp;Key Repos & Research
+
+> *Open-source tools that power the RavenX stack. Cited by NVIDIA. Used by the community.*
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" align="center">
 
-**[ravenx-wiki](https://github.com/DeadByDawn101/ravenx-wiki)**<br/>
-<sub>Session state, KANBAN, patent docs, project plans.<br/>The brain of RavenX AI Labs.</sub>
+**[turboquant-mlx](https://github.com/DeadByDawn101/turboquant-mlx)**<br/>
+<sub>First MLX implementation of TurboQuant KV cache compression.<br/>4.6x compression · near-zero accuracy loss · Apple Silicon<br/>📢 <i>Cited by <a href="https://github.com/WeianMao/triattention">TriAttention</a> — now in <a href="https://github.com/NVIDIA/TensorRT-LLM/pull/16957">NVIDIA TensorRT-LLM</a></i></sub>
 
 </td>
 <td width="50%" align="center">
 
-**[sovereign-ai-demo](https://github.com/DeadByDawn101/sovereign-ai-demo)**<br/>
-<sub>Encrypted AI inference proof code.<br/>BFV/CKKS on Apple Silicon · 55 verifications</sub>
+**[OpenMythos-MLX](https://github.com/DeadByDawn101/OpenMythos-MLX)**<br/>
+<sub>Depth extrapolation at data level for MLX.<br/>4x depth confirmed (train 2 loops → best at 8)<br/>mx.stop_gradient on all but last loop</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-**[ravenx-mtp-drafter](https://github.com/DeadByDawn101/ravenx-mtp-drafter)**<br/>
-<sub>ESI drafter architecture · 70.7M params.<br/>Training impossibility proof · MTP detection</sub>
+**[OpenFable-MLX](https://github.com/DeadByDawn101/OpenFable-MLX)**<br/>
+<sub>Identity architecture + Soul Infusion pipeline.<br/>Think-stripping · identity prefix injection<br/>Patent Pending: USPTO #64/087,357</sub>
+
+</td>
+<td width="50%" align="center">
+
+**[OpenSelfRevise](https://github.com/DeadByDawn101/OpenSelfRevise)**<br/>
+<sub>Adversarial self-revision for MLX (MIT research port).<br/>Hill-climbing optimization · quality refinement<br/>Used in all RavenX model training</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**[RavenX-Sec](https://github.com/DeadByDawn101/RavenX-Sec)**<br/>
+<sub>Security-focused LLM training pipeline.<br/>610K examples · 21 datasets · RATH protocol<br/>CVEs · CVSS · exploit PoCs · tool calling</sub>
 
 </td>
 <td width="50%" align="center">
 
 **[omlx](https://github.com/DeadByDawn101/omlx)**<br/>
-<sub>Fork of oMLX — one-click MLX model distribution.<br/>Menu bar app · investor demos · ESI integration</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-**[star-platinum-cluster](https://github.com/DeadByDawn101/star-platinum-cluster)**<br/>
-<sub>Multi-Mac AI cluster · JACCL RDMA over TB5.<br/>256GB unified · 3.5 GB/s kernel bypass</sub>
-
-</td>
-<td width="50%" align="center">
-
-**[ravenx-benchmark](https://github.com/DeadByDawn101/ravenx-benchmark)**<br/>
-<sub>18-test benchmark suite · 6 categories.<br/>MLX runner · Gemini judge · 93% score</sub>
+<sub>Fork of oMLX — one-click MLX model distribution.<br/>Menu bar app · investor demos · ESI integration<br/>Distributed inference via JACCL RDMA</sub>
 
 </td>
 </tr>
 </table>
+
+### 🏅 &nbsp;Community Recognition
+
+> **[TriAttention](https://github.com/WeianMao/triattention)** (KV-cache compression) — now officially integrated into **[NVIDIA TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM/pull/16957)**:
+>
+> *"[2026-04-09] Experimental MLX and TurboQuant support for Apple Silicon (M1/M2/M3/M4) — thanks to [@DeadByDawn101](https://github.com/DeadByDawn101) (RavenX AI) for proposing and contributing this feature."*
+>
+> Our TurboQuant MLX work contributed to technology that NVIDIA now ships in production. Fork to full MLX backend planned.
 
 ---
 
