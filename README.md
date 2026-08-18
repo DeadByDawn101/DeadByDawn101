@@ -15,8 +15,31 @@
 <img src="https://img.shields.io/github/followers/DeadByDawn101?label=FOLLOWERS&style=for-the-badge&color=6a0dad&labelColor=0a000f"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Patents-4%20Filed-ff0000?style=for-the-badge&labelColor=0a000f"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HF%20Downloads-94%2C435-c084fc?style=for-the-badge&labelColor=0a000f"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HF%20Likes-364-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HF%20Models-30%2B-c084fc?style=for-the-badge&labelColor=0a000f"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Top%20Model-54%2C116%20dl-6a0dad?style=for-the-badge&labelColor=0a000f"/>
+
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MLX](https://img.shields.io/badge/MLX-Apple%20Silicon-black?style=flat-square&logo=apple&logoColor=white)
+![CKKS](https://img.shields.io/badge/CKKS-Post%20Quantum-red?style=flat-square&labelColor=0a000f)
+![JACCL](https://img.shields.io/badge/JACCL-RDMA-blue?style=flat-square&labelColor=0a000f)
+![oMLX](https://img.shields.io/badge/oMLX-Distributed-c084fc?style=flat-square&labelColor=0a000f)
+![GGUF](https://img.shields.io/badge/GGUF-llama.cpp-green?style=flat-square&labelColor=0a000f)
+![Metal](https://img.shields.io/badge/Metal-GPU-orange?style=flat-square&labelColor=0a000f)
+![ANE](https://img.shields.io/badge/ANE-Neural%20Engine-purple?style=flat-square&labelColor=0a000f)
 
 </div>
 
@@ -220,20 +243,6 @@ class DeadByDawn101:
 **30+ models · 94,435 downloads · 364 likes**
 
 *Last updated: August 18, 2026*
-
-</div>
-
----
-
-## 🛠️ &nbsp;Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MLX](https://img.shields.io/badge/MLX-Apple%20Silicon-black?style=for-the-badge&logo=apple&logoColor=white)
-![CKKS](https://img.shields.io/badge/CKKS-Post%20Quantum-red?style=for-the-badge&labelColor=0a000f)
-![JACCL](https://img.shields.io/badge/JACCL-RDMA-blue?style=for-the-badge&labelColor=0a000f)
-![oMLX](https://img.shields.io/badge/oMLX-Distributed-c084fc?style=for-the-badge&labelColor=0a000f)
 
 </div>
 
