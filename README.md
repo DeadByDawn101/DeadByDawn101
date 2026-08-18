@@ -206,37 +206,118 @@ class DeadByDawn101:
 
 > *All models ship in MLX + GGUF pairs. Always. "We do things the right way."*
 
-### 🆕 &nbsp;Newest Releases
-
 <table align="center" width="100%">
+<thead>
 <tr>
-<td width="15%" align="center">🏆</td>
-<td width="55%"><b><a href="https://huggingface.co/deadbydawn101/RavenXAILabsLLC-Qwen3.8-27B-Abliterated-Unified-Frontier-Model-IQ-Injected-MLX-MTP">Unified Frontier — Qwen 3.8-27B IQ-Injected MLX</a></b><br/><sub>8 frontier labs · 1.16M examples · 93% benchmark · ESI drafter bundled</sub></td>
-<td width="15%" align="center"><img src="https://img.shields.io/badge/NEW-Aug_2026-c084fc?style=flat-square"/></td>
-<td width="15%" align="center"><sub>MLX 4-bit</sub></td>
+<th width="5%" align="center"></th>
+<th width="45%" align="left">Model</th>
+<th width="12%" align="center">Format</th>
+<th width="13%" align="center">Size</th>
+<th width="13%" align="right">Downloads</th>
+<th width="12%" align="right">Likes</th>
+</tr>
+</thead>
+<tbody>
+<tr><td colspan="6" align="center"><sub><b>🆕 NEWEST — August 2026</b></sub></td></tr>
+<tr>
+<td align="center">🏆</td>
+<td><b><a href="https://huggingface.co/deadbydawn101/RavenXAILabsLLC-Qwen3.8-27B-Abliterated-Unified-Frontier-Model-IQ-Injected-MLX-MTP">Unified Frontier — Qwen 3.8-27B IQ-Injected</a></b><br/><sub>8 frontier labs · 1.16M examples · 93% benchmark · ESI drafter</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/MLX-4bit-black?style=flat-square&logo=apple&logoColor=white"/></td>
+<td align="center"><sub>14 GB</sub></td>
+<td align="right"><sub><b>33</b></sub></td>
+<td align="right"><sub>0</sub></td>
 </tr>
 <tr>
-<td width="15%" align="center">🏆</td>
-<td width="55%"><b><a href="https://huggingface.co/deadbydawn101/RavenXAILabsLLC-Qwen3.8-27B-Abliterated-Unified-Frontier-Model-IQ-Injected-GGUF">Unified Frontier — Qwen 3.8-27B IQ-Injected GGUF</a></b><br/><sub>Q4_K_M · Ollama / LM Studio / llama.cpp / oMLX ready</sub></td>
-<td width="15%" align="center"><img src="https://img.shields.io/badge/NEW-Aug_2026-c084fc?style=flat-square"/></td>
-<td width="15%" align="center"><sub>GGUF Q4_K_M</sub></td>
+<td align="center">🏆</td>
+<td><b><a href="https://huggingface.co/deadbydawn101/RavenXAILabsLLC-Qwen3.8-27B-Abliterated-Unified-Frontier-Model-IQ-Injected-GGUF">Unified Frontier — Qwen 3.8-27B IQ-Injected</a></b><br/><sub>Q4_K_M · Ollama / LM Studio / llama.cpp / oMLX</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/GGUF-Q4__K__M-green?style=flat-square"/></td>
+<td align="center"><sub>15.8 GB</sub></td>
+<td align="right"><sub><b>86</b></sub></td>
+<td align="right"><sub>3</sub></td>
 </tr>
+<tr><td colspan="6" align="center"><sub><b>📊 TOP MODELS BY DOWNLOADS</b></sub></td></tr>
+<tr>
+<td align="center">🥇</td>
+<td><b><a href="https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit">Gemma 4 E4B Agentic — Opus Reasoning</a></b></td>
+<td align="center"><img src="https://img.shields.io/badge/MLX-4bit-black?style=flat-square&logo=apple&logoColor=white"/></td>
+<td align="center"><sub>10.5 GB</sub></td>
+<td align="right"><sub><b>54,116</b></sub></td>
+<td align="right"><sub>32</sub></td>
+</tr>
+<tr>
+<td align="center">🥈</td>
+<td><b><a href="https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-mlx-4bit">CyberAgent — 35B Pentester</a></b></td>
+<td align="center"><img src="https://img.shields.io/badge/MLX-4bit-black?style=flat-square&logo=apple&logoColor=white"/></td>
+<td align="center"><sub>19.3 GB</sub></td>
+<td align="right"><sub><b>17,428</b></sub></td>
+<td align="right"><sub>134</sub></td>
+</tr>
+<tr>
+<td align="center">🥉</td>
+<td><b><a href="https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Sol-Fable-Reasoning-GeminiCLI-GGUF">Gemma 4 E4B Agentic — Sol Fable</a></b></td>
+<td align="center"><img src="https://img.shields.io/badge/GGUF-Q4__K__M-green?style=flat-square"/></td>
+<td align="center"><sub>7.1 GB</sub></td>
+<td align="right"><sub><b>3,544</b></sub></td>
+<td align="right"><sub>4</sub></td>
+</tr>
+<tr>
+<td align="center">🔒</td>
+<td><b><a href="https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF">CyberAgent — 35B Pentester</a></b></td>
+<td align="center"><img src="https://img.shields.io/badge/GGUF-Q4__K__M-green?style=flat-square"/></td>
+<td align="center"><sub>20.1 GB</sub></td>
+<td align="right"><sub><b>3,489</b></sub></td>
+<td align="right"><sub>40</sub></td>
+</tr>
+<tr>
+<td align="center">⚡</td>
+<td><b><a href="https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit">Gemma 4 E2B Heretic Uncensored</a></b></td>
+<td align="center"><img src="https://img.shields.io/badge/MLX-4bit-black?style=flat-square&logo=apple&logoColor=white"/></td>
+<td align="center"><sub>3.3 GB</sub></td>
+<td align="right"><sub><b>3,350</b></sub></td>
+<td align="right"><sub>14</sub></td>
+</tr>
+<tr>
+<td align="center">⚡</td>
+<td><b><a href="https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF">Gemma 4 E4B Agentic — Opus</a></b></td>
+<td align="center"><img src="https://img.shields.io/badge/GGUF-Q4__K__M-green?style=flat-square"/></td>
+<td align="center"><sub>7.1 GB</sub></td>
+<td align="right"><sub><b>3,181</b></sub></td>
+<td align="right"><sub>31</sub></td>
+</tr>
+<tr>
+<td align="center">🔥</td>
+<td><b><a href="https://huggingface.co/deadbydawn101/RavenX-OpenFable-Coderagent-gemma-4-12B-coder-fable5-composer-Soulinfused-RATH-GGUF">Coderagent — Gemma 4 12B Fable5</a></b></td>
+<td align="center"><img src="https://img.shields.io/badge/GGUF-Q4__K__M-green?style=flat-square"/></td>
+<td align="center"><sub>8.2 GB</sub></td>
+<td align="right"><sub><b>1,588</b></sub></td>
+<td align="right"><sub>19</sub></td>
+</tr>
+<tr>
+<td align="center">🔥</td>
+<td><b><a href="https://huggingface.co/deadbydawn101/RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP">OpenFable-Qwopus-Coder-Holo3 35B</a></b></td>
+<td align="center"><img src="https://img.shields.io/badge/GGUF-Q4__K__M-green?style=flat-square"/></td>
+<td align="center"><sub>20.1 GB</sub></td>
+<td align="right"><sub><b>1,294</b></sub></td>
+<td align="right"><sub>17</sub></td>
+</tr>
+<tr>
+<td align="center">🔥</td>
+<td><b><a href="https://huggingface.co/deadbydawn101/RavenX-CyberAgent-v6.2-Experimental-GGUF">CyberAgent v6.2 Experimental</a></b></td>
+<td align="center"><img src="https://img.shields.io/badge/GGUF-Q4__K__M-green?style=flat-square"/></td>
+<td align="center"><sub>20.1 GB</sub></td>
+<td align="right"><sub><b>1,217</b></sub></td>
+<td align="right"><sub>6</sub></td>
+</tr>
+<tr>
+<td align="center">🔥</td>
+<td><b><a href="https://huggingface.co/deadbydawn101/ravenx-Gemma4-12B-MTP-OBLITERATED-OpenMAI-OpenMythos-deep-reasoning-mlx">Gemma 4 12B OBLITERATED OpenMAI</a></b></td>
+<td align="center"><img src="https://img.shields.io/badge/MLX-4bit-black?style=flat-square&logo=apple&logoColor=white"/></td>
+<td align="center"><sub>8.1 GB</sub></td>
+<td align="right"><sub><b>812</b></sub></td>
+<td align="right"><sub>7</sub></td>
+</tr>
+</tbody>
 </table>
-
-### 📊 &nbsp;All Models — Downloads
-
-| | Model | Format | Downloads | Likes |
-|---|---|---|---:|---:|
-| 🥇 | [**Gemma 4 E4B Agentic — Opus Reasoning**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | MLX | 54,116 | 32 |
-| 🥈 | [**CyberAgent — 35B Pentester (MLX)**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-mlx-4bit) | MLX | 17,428 | 134 |
-| 🥉 | [**Gemma 4 E4B Agentic — Sol Fable GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Sol-Fable-Reasoning-GeminiCLI-GGUF) | GGUF | 3,544 | 4 |
-| 🔒 | [**CyberAgent — 35B Pentester (GGUF)**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF) | GGUF | 3,489 | 40 |
-| ⚡ | [**Gemma 4 E2B Heretic Uncensored**](https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit) | MLX | 3,350 | 14 |
-| ⚡ | [**Gemma 4 E4B Agentic — Opus GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF) | GGUF | 3,181 | 31 |
-| 🔥 | [**Coderagent — Gemma 4 12B Fable5**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Coderagent-gemma-4-12B-coder-fable5-composer-Soulinfused-RATH-GGUF) | GGUF | 1,588 | 19 |
-| 🔥 | [**OpenFable-Qwopus-Coder-Holo3 35B**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP) | GGUF | 1,294 | 17 |
-| 🔥 | [**CyberAgent v6.2 Experimental**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-v6.2-Experimental-GGUF) | GGUF | 1,217 | 6 |
-| 🔥 | [**Gemma 4 12B OBLITERATED OpenMAI**](https://huggingface.co/deadbydawn101/ravenx-Gemma4-12B-MTP-OBLITERATED-OpenMAI-OpenMythos-deep-reasoning-mlx) | MLX | 812 | 7 |
 
 <div align="center">
 
