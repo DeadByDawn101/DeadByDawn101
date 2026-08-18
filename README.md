@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:1a0020,70:2d0040,100:000000&height=300&section=header&text=DeadByDawn101&fontSize=72&fontColor=c084fc&animation=fadeIn&fontAlignY=42&desc=RavenX%20AI%20Labs%20LLC%20%7C%204%20Patents%20%7C%2072%20Claims%20%7C%20Sovereign%20AI&descAlignY=62&descSize=16&descAlign=50&stroke=9b30ff&strokeWidth=3"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&weight=700&size=15&duration=1&pause=99999&color=c084fc&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%E2%B8%B8+Founder+%7C+RavenX+AI+Labs+LLC+%7C+San+Jose%2C+CA+%E2%B8%B8"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=9B30FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=4+Patents+%7C+72+Claims+%7C+5-Layer+Sovereign+AI;IQ+Injection+%7C+8+Frontier+Models+%7C+1.16M+Examples;Encrypted+Speculative+Injection+%7C+Training+Impossibility;Apple+Silicon+MLX+%2B+JACCL+RDMA+%2B+TB5;The+model+that+cannot+be+stolen;Walls+break.+Math+doesn%27t."/>
 
 </div>
@@ -16,21 +14,9 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/DeadByDawn101?label=FOLLOWERS&style=for-the-badge&color=6a0dad&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HuggingFace-30%20Models-c084fc?style=for-the-badge&labelColor=0a000f"/>
-&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Patents-4%20Filed-ff0000?style=for-the-badge&labelColor=0a000f"/>
-
-</div>
-
-<div align="center">
-
-<!-- HF_STATS:START -->
-<img src="https://img.shields.io/badge/HF%20Downloads-94%2C435-c084fc?style=for-the-badge&labelColor=0a000f"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HF%20Likes-363-c084fc?style=for-the-badge&labelColor=0a000f"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Top%20Model-%2354%2C116-6a0dad?style=for-the-badge&labelColor=0a000f"/>
-<!-- HF_STATS:END -->
+<img src="https://img.shields.io/badge/HF%20Models-30%2B-c084fc?style=for-the-badge&labelColor=0a000f"/>
 
 </div>
 
@@ -60,7 +46,6 @@ class DeadByDawn101:
         "Training Impossibility — loss → 10²¹ without the key",
         "Reverse ESI — activation enhancement without weight mod",
         "MTP + FHE — 5.7x encrypted inference speedup",
-        "MTP Detection Scanner — finds stripped MTP weights",
     ]
 
     certifications = [
@@ -73,22 +58,6 @@ class DeadByDawn101:
 
     philosophy  = "Build what nobody is building. Own the math. Ship in pairs."
 ```
-
----
-
-## 🏆 &nbsp;Patent Portfolio — 5-Layer Sovereign AI Stack
-
-> *Every company identified the problem. We solved it.*
-
-| Layer | Patent | What It Does |
-|-------|--------|-------------|
-| 1 | **Soul Infusion** #64/087,357 | Identity persists through training — the model knows who it is |
-| 2 | **Sovereignty Chain** #64/104,760 | Cryptographic ownership proof — the model proves who made it |
-| 3 | **Encrypted Private AI** #64/134,680 | Homomorphic encryption on consumer HW — the model cannot be read |
-| 4 | **ESI** #64/135,161 | Drafter as cryptographic key — the model cannot be accelerated without auth |
-| 5 | **Training Impossibility** #64/135,161 | Loss diverges to 10²¹ — the key cannot be replicated |
-
-**4 patents. 72 claims. Filed in 68 days from LLC formation. Zero prior art matches.**
 
 ---
 
@@ -135,21 +104,19 @@ class DeadByDawn101:
 
 ---
 
-## 🤗 &nbsp;Featured Models
+## 🏆 &nbsp;Patent Portfolio — 5-Layer Sovereign AI Stack
 
-> *All models ship in MLX + GGUF pairs. Always.*
+> *Every company identified the problem. We solved it.*
 
-| | Model | Type | Highlights |
-|---|---|---|---|
-| 🏆 | [**Unified Frontier Model — Qwen 3.8-27B IQ-Injected MLX**](https://huggingface.co/deadbydawn101/RavenXAILabsLLC-Qwen3.8-27B-Abliterated-Unified-Frontier-Model-IQ-Injected-MLX-MTP) | MLX | 8 frontier labs · 1.16M examples · 93% benchmark · ESI drafter bundled |
-| 🏆 | [**Unified Frontier Model — Qwen 3.8-27B IQ-Injected GGUF**](https://huggingface.co/deadbydawn101/RavenXAILabsLLC-Qwen3.8-27B-Abliterated-Unified-Frontier-Model-IQ-Injected-GGUF) | GGUF | Q4_K_M · Ollama/LM Studio/llama.cpp ready |
-| 💰 | [**MasterTrading Engine 27B — MLX**](https://huggingface.co/deadbydawn101/RavenX-MasterTrading-Engine-Qwen3.6-27B-Fable-Fusion-711-NEO-MAX-MTP-MLX) | MLX | 10/10 benchmark · Real trades · Polymarket · Options · DeFi |
-| 💰 | [**MasterTrading Engine 27B — GGUF**](https://huggingface.co/deadbydawn101/RavenX-MasterTrading-Engine-Qwen3.6-27B-Fable-Fusion-711-NEO-MAX-MTP-GGUF) | GGUF | Q4_K_M + IQ4_XS · Fits 16GB MacBook Air |
-| 🔒 | [**CyberAgent — 35B Pentester**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF) | GGUF | 17K+ downloads · RATH protocol · CVE analysis |
-| ⚡ | [**OpenFable-Qwopus-Coder-Holo3 35B**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP) | GGUF | Soul Infusion · Identity in weights · Agentic coding |
-| 🔥 | [**Gemma 4 E4B Agentic**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | MLX | 64K+ downloads · Tool calling · Opus reasoning |
+| Layer | Patent | What It Does |
+|-------|--------|-------------|
+| 1 | **Soul Infusion** #64/087,357 | Identity persists through training — the model knows who it is |
+| 2 | **Sovereignty Chain** #64/104,760 | Cryptographic ownership proof — the model proves who made it |
+| 3 | **Encrypted Private AI** #64/134,680 | Homomorphic encryption on consumer HW — the model cannot be read |
+| 4 | **ESI** #64/135,161 | Drafter as cryptographic key — the model cannot be accelerated without auth |
+| 5 | **Training Impossibility** #64/135,161 | Loss diverges to 10²¹ — the key cannot be replicated |
 
-**28+ models · 100K+ total downloads · Ships in MLX + GGUF pairs**
+**4 patents. 72 claims. Filed in 68 days from LLC formation. Zero prior art matches.**
 
 ---
 
@@ -212,6 +179,52 @@ class DeadByDawn101:
 
 ---
 
+## 🤗 &nbsp;Featured Models
+
+> *All models ship in MLX + GGUF pairs. Always. "We do things the right way."*
+
+### 🆕 &nbsp;Newest Releases
+
+<table align="center" width="100%">
+<tr>
+<td width="15%" align="center">🏆</td>
+<td width="55%"><b><a href="https://huggingface.co/deadbydawn101/RavenXAILabsLLC-Qwen3.8-27B-Abliterated-Unified-Frontier-Model-IQ-Injected-MLX-MTP">Unified Frontier — Qwen 3.8-27B IQ-Injected MLX</a></b><br/><sub>8 frontier labs · 1.16M examples · 93% benchmark · ESI drafter bundled</sub></td>
+<td width="15%" align="center"><img src="https://img.shields.io/badge/NEW-Aug_2026-c084fc?style=flat-square"/></td>
+<td width="15%" align="center"><sub>MLX 4-bit</sub></td>
+</tr>
+<tr>
+<td width="15%" align="center">🏆</td>
+<td width="55%"><b><a href="https://huggingface.co/deadbydawn101/RavenXAILabsLLC-Qwen3.8-27B-Abliterated-Unified-Frontier-Model-IQ-Injected-GGUF">Unified Frontier — Qwen 3.8-27B IQ-Injected GGUF</a></b><br/><sub>Q4_K_M · Ollama / LM Studio / llama.cpp / oMLX ready</sub></td>
+<td width="15%" align="center"><img src="https://img.shields.io/badge/NEW-Aug_2026-c084fc?style=flat-square"/></td>
+<td width="15%" align="center"><sub>GGUF Q4_K_M</sub></td>
+</tr>
+</table>
+
+### 📊 &nbsp;All Models — Downloads
+
+| | Model | Format | Downloads | Likes |
+|---|---|---|---:|---:|
+| 🥇 | [**Gemma 4 E4B Agentic — Opus Reasoning**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit) | MLX | 54,116 | 32 |
+| 🥈 | [**CyberAgent — 35B Pentester (MLX)**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-mlx-4bit) | MLX | 17,428 | 134 |
+| 🥉 | [**Gemma 4 E4B Agentic — Sol Fable GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Sol-Fable-Reasoning-GeminiCLI-GGUF) | GGUF | 3,544 | 4 |
+| 🔒 | [**CyberAgent — 35B Pentester (GGUF)**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF) | GGUF | 3,489 | 40 |
+| ⚡ | [**Gemma 4 E2B Heretic Uncensored**](https://huggingface.co/deadbydawn101/gemma-4-E2B-Heretic-Uncensored-mlx-4bit) | MLX | 3,350 | 14 |
+| ⚡ | [**Gemma 4 E4B Agentic — Opus GGUF**](https://huggingface.co/deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-GGUF) | GGUF | 3,181 | 31 |
+| 🔥 | [**Coderagent — Gemma 4 12B Fable5**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Coderagent-gemma-4-12B-coder-fable5-composer-Soulinfused-RATH-GGUF) | GGUF | 1,588 | 19 |
+| 🔥 | [**OpenFable-Qwopus-Coder-Holo3 35B**](https://huggingface.co/deadbydawn101/RavenX-OpenFable-Qwopus-Coder-Holo3-Qwen3.6-35B-A3B-MTP) | GGUF | 1,294 | 17 |
+| 🔥 | [**CyberAgent v6.2 Experimental**](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-v6.2-Experimental-GGUF) | GGUF | 1,217 | 6 |
+| 🔥 | [**Gemma 4 12B OBLITERATED OpenMAI**](https://huggingface.co/deadbydawn101/ravenx-Gemma4-12B-MTP-OBLITERATED-OpenMAI-OpenMythos-deep-reasoning-mlx) | MLX | 812 | 7 |
+
+<div align="center">
+
+**30+ models · 94,435 downloads · 364 likes**
+
+*Last updated: August 18, 2026*
+
+</div>
+
+---
+
 ## 🛠️ &nbsp;Stack
 
 <div align="center">
@@ -220,9 +233,7 @@ class DeadByDawn101:
 ![MLX](https://img.shields.io/badge/MLX-Apple%20Silicon-black?style=for-the-badge&logo=apple&logoColor=white)
 ![CKKS](https://img.shields.io/badge/CKKS-Post%20Quantum-red?style=for-the-badge&labelColor=0a000f)
 ![JACCL](https://img.shields.io/badge/JACCL-RDMA-blue?style=for-the-badge&labelColor=0a000f)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![oMLX](https://img.shields.io/badge/oMLX-Distributed-c084fc?style=for-the-badge&labelColor=0a000f)
 
 </div>
 
@@ -244,7 +255,7 @@ class DeadByDawn101:
 
 <div align="center">
 
-*⸸ &nbsp; 4 patents. 72 claims. 28+ models. 100K+ downloads. 68 days. $0 raised. &nbsp; ⸸*
+*⸸ &nbsp; 4 patents. 72 claims. 30+ models. 94K+ downloads. 68 days. $0 raised. &nbsp; ⸸*
 
 *"Walls break. Math doesn't."*
 
